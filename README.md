@@ -3,6 +3,8 @@
 
 ![Level](https://gen.plancke.io/exp/jmstdotme.png)
 
+![Level](https://gen.plancke.io/achievementPoints/jmstdotme.png)
+
 ![General Stats](https://hypixel.paniek.de/signature/bd54a20f5f814de2afcbfaf459a94653/general)
 
 ![Character Info](https://hypixel.paniek.de/signature/bd54a20f5f814de2afcbfaf459a94653/general-tooltip)
